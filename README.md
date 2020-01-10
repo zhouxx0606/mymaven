@@ -1,0 +1,2 @@
+# mymaven
+myownmaven
